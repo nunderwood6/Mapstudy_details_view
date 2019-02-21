@@ -36,7 +36,7 @@
 								"roundTo": 0,
 								"name": "Tweets",
 								"source": "data/details/c1_details.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"layerOptions": {
 									"fillOpacity": 0.8,
 									"color": "gray",
@@ -61,7 +61,7 @@
 								"roundTo": 0,
 								"name": "counties",
 								"source": "data/counties/c1_counties.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"displayAttributes": [
 									"NAMELSAD10"
 								],
@@ -329,7 +329,7 @@
 								"roundTo": 0,
 								"name": "Tweets",
 								"source": "data/details/l2_details.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"layerOptions": {
 									"fillOpacity": 0.8,
 									"color": "gray",
@@ -354,7 +354,7 @@
 								"roundTo": 0,
 								"name": "counties",
 								"source": "data/counties/l2_counties.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"displayAttributes": [
 									"NAMELSAD10"
 								],
@@ -622,7 +622,7 @@
 								"roundTo": 0,
 								"name": "Tweets",
 								"source": "data/details/t3_details.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"layerOptions": {
 									"fillOpacity": 0.8,
 									"color": "gray",
@@ -647,7 +647,7 @@
 								"roundTo": 0,
 								"name": "counties",
 								"source": "data/counties/t3_counties.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"displayAttributes": [
 									"NAMELSAD10"
 								],
@@ -915,7 +915,7 @@
 								"roundTo": 0,
 								"name": "Tweets",
 								"source": "data/details/u4_details.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"layerOptions": {
 									"fillOpacity": 0.8,
 									"color": "gray",
@@ -940,7 +940,7 @@
 								"roundTo": 0,
 								"name": "counties",
 								"source": "data/counties/u4_counties.json",
-								"expressedAttribute": "tweets",
+								"expressedAttribute": "tweetClass",
 								"displayAttributes": [
 									"NAMELSAD10"
 								],
