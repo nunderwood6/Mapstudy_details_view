@@ -84,9 +84,15 @@
 
       bounds = this._map.getBounds();
       zoom = this._map.getZoom();
+      //hack
+ 
+      if(zoom==8){
+        scale = Math.pow(1.98, zoom);
+      }
+      else{
+        scale = Math.pow(1.98, zoom);
+      }
     
-        scale = Math.pow(1.99, zoom);
-      
 
       if (this._data.length == 0) {
         if (this._heatmap) {
